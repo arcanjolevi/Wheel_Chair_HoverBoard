@@ -41,5 +41,5 @@
      
        #define CONTROL_NUNCHUCK            // use nunchuck as input. disable DEBUG_SERIAL_USART3!
        
-  * In this project(wheel chair with hoverBoard) we use the CONTROL_NUNCHUCK input.
+  * In this project (wheel chair with hoverBoard) use the CONTROL_NUNCHUCK input.
  
