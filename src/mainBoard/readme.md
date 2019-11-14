@@ -4,7 +4,7 @@
 
  * To unlock or flash the MainBoard you need to install the St-Link v2  and libusb in your linux machine. 
    If you are in a windows machine use the Windows ST-Link utility. Open the terminal in the mainboard code folder (in this 
-   project it's located here: https://github.com/CaioslppUO/Agrobot/tree/master/src/mainBoard) and use the following commands:
+   project it's located here: https://github.com/arcanjolevi/Wheel_Chair_HoverBoard/tree/master/src/mainBoard and use the following commands:
 
  * A) If you never flashed the mainboard before use this to unlock the flash:
 
@@ -40,3 +40,6 @@
      * and comment the follwing line:
      
        #define CONTROL_NUNCHUCK            // use nunchuck as input. disable DEBUG_SERIAL_USART3!
+       
+  * In this project(wheel chair with hoverBoard) we use the CONTROL_NUNCHUCK input.
+ 
