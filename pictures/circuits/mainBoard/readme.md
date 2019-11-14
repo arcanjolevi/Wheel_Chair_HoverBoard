@@ -9,10 +9,11 @@
 
 # mainBoard 1:
 
-
+![mainBoard1](https://github.com/arcanjolevi/Wheel_Chair_HoverBoard/blob/master/pictures/circuits/mainBoard/MainBoardCircuit1.png)
 
 
 # mainBoard 2:
 
+![mainBoard2](https://github.com/arcanjolevi/Wheel_Chair_HoverBoard/blob/master/pictures/circuits/mainBoard/MainBoardCircuit2.png)
 
 
