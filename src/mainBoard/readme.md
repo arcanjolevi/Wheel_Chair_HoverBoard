@@ -40,3 +40,5 @@
      * and comment the follwing line:
      
        #define CONTROL_NUNCHUCK            // use nunchuck as input. disable DEBUG_SERIAL_USART3!
+       
+  * For this project just download the code, make the project and unpload to mainBoard
