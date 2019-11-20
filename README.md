@@ -1,6 +1,8 @@
 # Wheel_Chair_HoverBoard
   * This is a project to make a wheel Chair, using a hoverBoard.
   
+  ![WheelChair](https://github.com/arcanjolevi/Wheel_Chair_HoverBoard/blob/master/pictures/wheelChair/wheelChair1.jpeg)
+  
 # Material needed to do:
    
    Here we put a list to assemble the circuit in the simplest way, 
