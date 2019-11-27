@@ -13,7 +13,7 @@
      
      * 1 mainBoard, removed from the hoverBoard.
      * 2 Or 1 wheel(s), depending on what you want, removed from the hoverBoard.
-     * A 36-40 volts baterry (we use the default hoverBoard battery)
+     * A 36-40 volts baterry (we used the default hoverBoard battery)
      * A couple of wires to connect the circuit.
      * A nintendo nunchuck
      * A programmer ST-LINK/V2
