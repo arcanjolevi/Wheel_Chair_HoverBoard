@@ -2,9 +2,10 @@
   * This is a project to make a eletric wheel Chair, using a hoverBoard.
   * Este é um projeto para a construção de uma cadeira de rodas elétrica, usando HoverBoards.
   
+  ![WheelChairVideo](https://github.com/arcanjolevi/Wheel_Chair_HoverBoard/blob/master/Videos/demonstration.gif)
   ![WheelChair](https://github.com/arcanjolevi/Wheel_Chair_HoverBoard/blob/master/pictures/wheelChair/wheelChair1.jpeg)
   ![Contributors](https://github.com/arcanjolevi/Wheel_Chair_HoverBoard/blob/master/pictures/contributors.jpeg)  
-  ![WheelChairVideo](https://github.com/arcanjolevi/Wheel_Chair_HoverBoard/blob/master/Videos/whaeel_chair_demonstration.mp4)
+  
   
 # Material needed to do:
    
