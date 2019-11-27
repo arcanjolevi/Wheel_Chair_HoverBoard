@@ -1,5 +1,6 @@
 # Wheel_Chair_HoverBoard
-  * This is a project to make a wheel Chair, using a hoverBoard.
+  * This is a project to make a eletric wheel Chair, using a hoverBoard.
+  * Este é um projeto para a construção de uma cadeira de rodas elétrica, usando HoverBoards.
   
   ![WheelChair](https://github.com/arcanjolevi/Wheel_Chair_HoverBoard/blob/master/pictures/wheelChair/wheelChair1.jpeg)
   
